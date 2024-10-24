@@ -150,5 +150,117 @@
     </code>
   </pre>
 
+  <table border="1">
+    <thead>
+        <tr>
+            <th>Language</th>
+            <th>Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Amharic</td>
+            <td>am-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Arabic</td>
+            <td>ar-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Bengali</td>
+            <td>bn-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Chinese (Hong Kong)</td>
+            <td>yue-hant-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Chinese (Simplified, China)</td>
+            <td>zh-t-i0-pinyin</td>
+        </tr>
+        <tr>
+            <td>Chinese (Traditional, Taiwan)</td>
+            <td>zh-hant-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Greek</td>
+            <td>el-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Gujarati</td>
+            <td>gu-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Hindi</td>
+            <td>hi-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Kannada</td>
+            <td>kn-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Malayalam</td>
+            <td>ml-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Marathi</td>
+            <td>mr-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Nepali</td>
+            <td>ne-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Oriya</td>
+            <td>or-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Persian</td>
+            <td>fa-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Punjabi</td>
+            <td>pu-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Russian</td>
+            <td>ru-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Sanskrit</td>
+            <td>sa-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Serbian</td>
+            <td>sr-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Sinhalese</td>
+            <td>si-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Tamil</td>
+            <td>ta-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Telugu</td>
+            <td>te-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Thai</td>
+            <td>th-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Tigrinya</td>
+            <td>ti-t-i0-und</td>
+        </tr>
+        <tr>
+            <td>Urdu</td>
+            <td>ur-t-i0-und</td>
+        </tr>
+    </tbody>
+</table>
+
+
 </body>
 </html>
